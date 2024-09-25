@@ -1,5 +1,5 @@
 # wifidoser
-Author : Surajchavda
+
 
 With Technical Sagar.
 Most powerfull Wifi Jammer with fixes.
